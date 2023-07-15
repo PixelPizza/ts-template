@@ -1,5 +1,5 @@
 {
-	"name": "@theravenouscorporate/ts-template",
+	"name": "@pixelpizza/ts-template",
 	"version": "1.0.0",
 	"description": "Template for creating TypeScript projects",
 	"main": "dist/index.js",
@@ -33,15 +33,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/TheRavenousCorporate/ts-template.git"
+		"url": "git+https://github.com/PixelPizza/ts-template.git"
 	},
 	"keywords": [],
-	"author": "@theravenouscorporate",
+	"author": "@pixelpizza",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/TheRavenousCorporate/ts-template/issues"
+		"url": "https://github.com/PixelPizza/ts-template/issues"
 	},
-	"homepage": "https://github.com/TheRavenousCorporate/ts-template#readme",
+	"homepage": "https://github.com/PixelPizza/ts-template#readme",
 	"devDependencies": {
 		"@commitlint/cli": "^17.6.6",
 		"@commitlint/config-conventional": "^17.6.6",
