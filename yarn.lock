@@ -842,7 +842,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": ^6.11.0
     "@typescript-eslint/parser": ^6.11.0
     "@vitest/coverage-v8": ^0.34.6
-    esbuild-plugin-file-path-extensions: ^1.0.0
+    esbuild-plugin-file-path-extensions: ^2.1.4
     esbuild-plugin-version-injector: ^1.2.1
     eslint: ^8.54.0
     eslint-config-prettier: ^9.0.0
@@ -2374,10 +2374,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"esbuild-plugin-file-path-extensions@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "esbuild-plugin-file-path-extensions@npm:1.0.0"
-  checksum: 4e844b7822cf444c5e50bef81d59df0b04c4f1377970698679e0b562d5b3b7a3e415108511bbba37c0c394220faea31ec90c1c9fea048b45f218655507236ca7
+"esbuild-plugin-file-path-extensions@npm:^2.1.4":
+  version: 2.1.4
+  resolution: "esbuild-plugin-file-path-extensions@npm:2.1.4"
+  checksum: 047357ad60fa316fd84a381b62fe363e078a2e72f96028008267512aa57342e430415aafc4fffba6c9531baa7151dddc875a0024d34350abdf7e5a2d06ed5369
   languageName: node
   linkType: hard
 
